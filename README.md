@@ -22,7 +22,7 @@ The analysis focuses on **5 major North American hub airports**:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze delay patterns across 5 major hub airports over 5 years
 - Identify seasonal, monthly, and hourly delay trends at EWR
@@ -32,7 +32,7 @@ The analysis focuses on **5 major North American hub airports**:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### Delay Rates
 - **EWR** is the worst performing hub with a **23.2% delay rate**
@@ -57,7 +57,7 @@ The analysis focuses on **5 major North American hub airports**:
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 flight-delay-eda/
@@ -78,7 +78,7 @@ flight-delay-eda/
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Figure 1 — Airport Overview
 ![Airport Overview](figures/fig1_airport_overview.png)
@@ -103,7 +103,7 @@ flight-delay-eda/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -116,7 +116,7 @@ flight-delay-eda/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 **Source:** [Kaggle — Flight Delay Dataset 2018–2022](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022)
 
@@ -133,7 +133,7 @@ flight-delay-eda/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -152,7 +152,7 @@ US_FOCUS_AIRPORTS_EDA.ipynb
 
 ---
 
-## 🔭 Phase 2 — Coming Soon
+## Phase 2 — Coming Soon
 
 Phase 2 will build on this EDA with a full ML pipeline:
 
@@ -165,7 +165,7 @@ Phase 2 will build on this EDA with a full ML pipeline:
 
 ---
 
-## 👤 Author
+## Author
 
 **Sadek Harite**  
 MBA Candidate in Business Analytics — Sprott School of Business, Carleton University  
