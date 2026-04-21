@@ -1,4 +1,4 @@
-# ✈️ Flight Delay EDA — North American Hub Airports (2018–2022)
+# Flight Delay EDA — North American Hub Airports (2018–2022)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
