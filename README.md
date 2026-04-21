@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project performs a comprehensive **Exploratory Data Analysis (EDA)** on flight delay data from the Bureau of Transportation Statistics (BTS), covering **29,193,782 flights** between 2018 and 2022.
 
